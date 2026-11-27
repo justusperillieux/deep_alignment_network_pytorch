@@ -1,5 +1,5 @@
 # Deep Alignment Network PyTorch
-[![Build Status](https://travis-ci.com/justusschock/deep_alignment_network_pytorch.svg?branch=master)](https://travis-ci.com/justusschock/deep_alignment_network_pytorch) [![codecov](https://codecov.io/gh/justusschock/deep_alignment_network_pytorch/branch/master/graph/badge.svg)](https://codecov.io/gh/justusschock/deep_alignment_network_pytorch)
+[![Build Status](https://travis-ci.com/justusperillieux/deep_alignment_network_pytorch.svg?branch=master)](https://travis-ci.com/justusperillieux/deep_alignment_network_pytorch) [![codecov](https://codecov.io/gh/justusperillieux/deep_alignment_network_pytorch/branch/master/graph/badge.svg)](https://codecov.io/gh/justusperillieux/deep_alignment_network_pytorch)
 
 This repository contains a [`delira`](https://github.com/justusschock/delira)-compatible implementation of the Deep Alignment Network.
 
@@ -16,7 +16,7 @@ pip install deep-alignment-pytorch
 
 or from source via
 ```
-pip install git+https://github.com/justusschock/deep_alignment_network_pytorch
+pip install git+https://github.com/justusperillieux/deep_alignment_network_pytorch
 ```
 
 An installation from pip will be possible soon, once the complete repository setup is completed.

@@ -13,7 +13,7 @@ Welcome to delira-compatible cycle-GAN's documentation!
    Example <helen_example>
    API Documentation <_api/_build/modules>
 
-   GitHub <https://github.com/justusschock/deep_alignment_network_pytorch>
+   GitHub <https://github.com/justusperillieux/deep_alignment_network_pytorch>
 
 
 Indices and tables
